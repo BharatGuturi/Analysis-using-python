@@ -1,2 +1,3 @@
 # python_challenge
-Working on assignment 3
+Analysis of financial records of a company.
+Python Script to analyse the poll data.
